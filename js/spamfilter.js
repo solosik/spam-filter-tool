@@ -33,7 +33,10 @@ var spamFilter = (function () {
     'sonyelektronik.com|sosdepotdebilan.com|soundfrost.org|spb.afora.ru|spravka130.ru|srecorder.com|steame.ru|streha-metalko.si|success-seo.com|superiends.org|susanholtphotography.com|taihouse.ru|tastyfoodideas.com|tattooha.com|teastory.co|tedxrj.com',
     'thecoral.com.br|theguardlan.com|thepokertimer.com|tomck.com|torture.ml|touchmods.fr|toyota.7zap.com|trafficmonetizer.org|trion.od.ua|twincitiescarservice.com|uasb.ru|uni.me|urlopener.blogspot.com.au|uzungil.com|vapmedia.org|video-woman.com',
     'videofrost.(com|net)|videos-for-your-business.com|viel.su|viktoria-center.ru|vodaodessa.com|vodkoved.ru|web-betting.ru|webmaster-traffic.com|webmonetizer.net|website-errors-scanner.com|websites-reviews.com|websocial.me|williamrobsonproperty.com',
-    'wmasterlead.com|ykecwqlixx.ru|youporn-forum.(ga|uni.me)|youporn-ru.com|youtubedownload.org|yurgorod.ru|zastroyka.org|zazagames.org|zverokruh-shop.cz'
+    'wmasterlead.com|ykecwqlixx.ru|youporn-forum.(ga|uni.me)|youporn-ru.com|youtubedownload.org|yurgorod.ru|zastroyka.org|zazagames.org|zverokruh-shop.cz',
+    '.*((darodar|priceg|buttons\-for(\-your)?\-website|makemoneyonline|blackhatworth|hulfingtonpost|o\-o\-6\-o\-o|(social|(simple|free|floating)\-share)\-buttons)\.com|econom\.co|ilovevitaly(\.co(m)?)|(ilovevitaly(\.ru))|(humanorightswatch|guardlink)\.org).*',
+    '.*((best(websitesawards|\-seo\-(solution|offer))|Get\-Free\-Traffic\-Now|googlsucks|theguardlan|webmaster\-traffic)\.com|(domination|torture)\.ml|((rapidgator\-)?(general)?porn(hub(\-)?forum)?|4webmasters)\.(ga|tk|org|uni)|(buy\-cheap\-online)\.info).*',
+    '.*((event\-tracking|semalt(media)?|(100dollars|success)\-seo|chinese\-amezon|e\-buyeasy)\.com|traffic(monetize(r)?|2money)\.(org|com)|pops\.foundation|erot\.co).*'
   ];
 
   // Declare utility variables
